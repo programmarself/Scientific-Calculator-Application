@@ -154,7 +154,7 @@ def show_about_page():
 
     Version 2.0
 
-    Created by Anmol Yaseen
+    Created by Irfan Ullah Khan
 
     This calculator application was developed as a versatile tool for basic and scientific calculations. It includes a user guide and an about page to help you get started.
 
